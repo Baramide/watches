@@ -1,0 +1,2 @@
+# watches
+ watch test run
